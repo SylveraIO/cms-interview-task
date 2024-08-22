@@ -4,6 +4,10 @@ Container uses PHP 8.2. Expectation is that solutions provided should use modern
 
 You will need php, [composer](https://getcomposer.org/download/) & [docker](https://www.docker.com/products/docker-desktop/) in order to complete this challenge.
 
+## Getting started
+
+Please clone this repository and then follow the below steps from there. Do not directly commit or create a pull request to this repo.
+
 ## Install
 
 ```shell
